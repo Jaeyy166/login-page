@@ -1,0 +1,12 @@
+body {
+  background-color: whitesmoke;
+  color: black;
+  font-family: Helvetica;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+@media screen and (max-width: 1920px) {
+  
+
+}
