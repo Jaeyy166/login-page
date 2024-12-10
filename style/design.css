@@ -53,6 +53,12 @@ body {
    font-size: 20px;
  }
 
+ .input-area {
+    height: 40px;
+    width: 270px;
+    font-size: 22px;
+  }
+
  .login-button {
    display: flex;
    justify-self: center;
@@ -102,5 +108,21 @@ body {
     background-color: gainsboro;
     width: 600px;
     height: 500px;
+    border-radius: 20px;
+  }
+
+  .loginInput-field {
+    margin-top: 70px;
+    margin-bottom: 70x;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .input-area {
+    height: 40px;
+    width: 270px;
+    font-size: 22px;
+  }
+  .login-button {
+
   }
 }
